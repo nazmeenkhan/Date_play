@@ -11,3 +11,4 @@ while (date <= endDate) {
 }
 
 console.log(res)
+console.log(1)
